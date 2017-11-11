@@ -1,6 +1,13 @@
 * {
   font-family: "Helvetica", "Arial", "san-serif";
 }
+style
+{
+  hover nav a
+  hover state: text-decoration;
+  underline;
+  coror: #0056b3;
+}
 body {
   padding: 0 30px 0 30px;
 }
