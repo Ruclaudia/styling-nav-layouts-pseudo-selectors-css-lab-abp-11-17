@@ -3,7 +3,7 @@
 }
 style
 {
-  hover nav a
+  nav a:hover
   hover state: text-decoration;
   underline;
   coror: #0056b3;
