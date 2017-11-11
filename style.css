@@ -42,8 +42,8 @@ nav a {
   text-decoration: underline;
   color: #0056b3;
 }
- header h3#visited a{
-
+ header h3#visited a:hover{
+  text-decoration: underline;
  }
 main{
   margin-top: 20px;
